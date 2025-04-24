@@ -1,10 +1,10 @@
-# 📦 vitoria-utils
+# vitoria-utils
 
 Repositório de funções utilitárias reutilizáveis, escritas em JavaScript, para facilitar o desenvolvimento de projetos comerciais, de proposta ou automação de tarefas.
 
 ---
 
-## ✨ Funções disponíveis
+## Funções disponíveis
 
 ### 📁 formatacao
 
@@ -37,9 +37,9 @@ Gera dinamicamente um nome de arquivo para uma proposta em PDF, padronizando esp
 
 ---
 
-## 🚀 Como usar
+## Como usar
 
-Você pode importar essas funções diretamente em seus projetos JavaScript:
+Importar essas funções diretamente nos projetos JavaScript:
 
 ```js
 import { formatarMoeda } from './formatacao/formatarMoeda.js';
